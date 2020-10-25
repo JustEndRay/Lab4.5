@@ -1,0 +1,4 @@
+﻿  Lab4.4.cpp
+D:\Рабочий стол\дз\Лаб 4\Lab4.5\Lab4.5\Lab4.4.cpp(20,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Рабочий стол\дз\Лаб 4\Lab4.5\Lab4.5\Lab4.4.cpp(21,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Lab4.5.vcxproj -> D:\Рабочий стол\дз\Лаб 4\Lab4.5\Debug\Lab4.5.exe
